@@ -104,6 +104,7 @@ hr.RampBreak--l {
 
 .RampInputSelect--dropdown-container-opened {
   display: block;
+  position: relative;
 }
 
 .RampInputSelect--dropdown-item {
@@ -150,7 +151,7 @@ hr.RampBreak--l {
 }
 
 .RampInputCheckbox--input {
-  display: none;
+  /* display: none; */
 }
 
 .RampButton {
